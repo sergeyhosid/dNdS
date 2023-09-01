@@ -1,0 +1,22 @@
+Ala/A	GCT	GCC	GCA	GCG			gct	gcc	gca	gcg
+Arg/R	CGT	CGC	CGA	CGG	AGA	AGG	cgt	cgc	cga	cgg	aga	agg
+Asn/N	AAT	AAC					aat	aac
+Asp/D	GAT	GAC					gat	gac
+Cys/C	TGT	TGC					tgt	tgc
+Gln/Q	CAA	CAG					caa	cag
+Glu/E	GAA	GAG					gaa	gag
+Gly/G	GGT	GGC	GGA	GGG			ggt	ggc	gga	ggg
+His/H	CAT	CAC					cat	cac
+Ile/I	ATT	ATC	ATA				att	atc	ata
+Leu/L	TTA	TTG	CTT	CTC	CTA	CTG	tta	ttg	ctt	ctc	cta	ctg
+Lys/K	AAA	AAG					aaa	aag
+Met/M	ATG						atg
+Phe/F	TTT	TTC					ttt	ttc
+Pro/P	CCT	CCC	CCA	CCG			cct	ccc	cca	ccg
+Ser/S	TCT	TCC	TCA	TCG	AGT	AGC	tct	tcc	tca	tcg	agt	agc
+Thr/T	ACT	ACC	ACA	ACG			act	acc	aca	acg
+Trp/W	TGG						tgg
+Tyr/Y	TAT	TAC					tat	tac
+Val/V	GTT	GTC	GTA	GTG			gtt	gtc	gta	gtg
+STOP	TAA	TGA	TAG				taa	tga	tag
+START	ATG						atg
